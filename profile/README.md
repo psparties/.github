@@ -73,7 +73,7 @@ PSParty is already available, and we would love for you to try it. Every launch,
 
 Join our Discord community to share feedback, report issues, suggest new features or follow the latest PSParty updates.
 
-  <a href="https://discord.gg/R26S58cbFy">
+  <a href="https://discord.psparty.xyz">
     <strong>💬 Join our Discord</strong>
   </a>
 
