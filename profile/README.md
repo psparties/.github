@@ -33,12 +33,6 @@ PSParty is a Discord Activity that brings console parties and Discord closer tog
 
 Start the Activity in your voice channel, connect your console account and enjoy your party together - without a capture card or complicated setup.
 
-> [!IMPORTANT]
->
-> Your privacy and security are a top priority for us. PSParty follows the principle of data minimization: we only process the limited account, session and technical information required to provide the requested features, maintain reliable operation, prevent misuse and protect our systems.
->
-> We do not store your PlayStation password or your PlayStation account login credentials. PSParty never receives your password and cannot sign in using your personal login details. Access is restricted, sensitive components are separated and our security measures are continuously reviewed and improved.
-
 ### ✨ What’s inside
 
 - 📺 **Watch together** — See PS5 party screen shares directly inside Discord.
